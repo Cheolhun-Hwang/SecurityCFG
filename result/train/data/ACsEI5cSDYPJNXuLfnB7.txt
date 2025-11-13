@@ -1,0 +1,14 @@
+retn_push_pop
+push_pop_push
+pop_push_push
+push_push_push
+push_push_push
+push_push_pop
+push_pop_push
+pop_push_push
+push_push_dec
+push_dec_pop
+dec_pop_push
+pop_push_pop
+push_pop_leave
+pop_leave_retn

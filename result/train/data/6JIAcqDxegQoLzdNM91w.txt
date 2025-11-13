@@ -1,0 +1,4 @@
+push_dec_inc
+dec_inc_pop
+inc_pop_push
+pop_push_pop

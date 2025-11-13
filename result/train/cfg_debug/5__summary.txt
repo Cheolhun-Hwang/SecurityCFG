@@ -1,0 +1,11 @@
+class: 5
+files_total: 42
+files_nonempty: 33
+threshold(ceil(files*ratio)): 11
+kept_after_threshold: 123
+dropped_below_threshold: 1205
+final_items: 6
+dropped_shared_or_lost: 55
+ambiguous_shared_for_cls: 62
+file_ids: 0qjuDC7Rhx9rHkLlItAp, 1IpWLz6eyhVxDAfQMKEd, 1KB3Z7gd5aN4Xmx8W0sf, 2aHfrLhcPTj5GnFZXUCN, 2pwjzv6eGEb8QmHPfxSc, 2qAtoGOuMQZdmH3y7bEY, 3m8kb5ILPrHcMC1o9Nht, 3zZpqyclD9B2v5Qas18m, 40KRbGeQZ8PwcUgt5joa, 4UTMdcZkxzLvwygO8EuK, 5tMCNKDogQ2x7zwUbpcZ, 7cyYPthi5KmvXEs2NkRj, 8wm2jYBqV30okUMfuDCd, AeCXyFRcU2SsgvVTpMzi, asKPnzUXjShMc0Tl6Wge, b59dlNEacoYUAyeR4Ipq, B6dzEY3kKIn8me9McfGg, bGPHZFpAL3N957064wzj, BKXtxeYlLsprabEWIQhn, cIojVJGQOtrL0S1ApeDY, CRrAOvzk452LVZIGMWsq, cYb4XuNSqOA9IFLHseG1, DEyOUKzN2g8suv96eYoC, Dj3FqX9IAHco2tG1UOZS, dKcE7Q1zuFViSaDRUtxY, e2r6IncxE1LQOKFGgphj, EB0d2fJGLHam1tQCUDWu, ei0C84XpoqcAS6v5ZExI, epLciPaHrTu1gl4CW7Uf, F6nOrb9ipd0SskWuJjUw, FdiEeV3N8WtUSXjmcrxo, Fnda3PuqJT6Ep5vjOWCk, FsirpP0oDwXeAzC2KndG, fyH8oWql4rg7tEJSLpIB, gB105vrJPbcGCtuj7p4a, GbTUXFYkMoafQSe1zN94, GkMBlvTidr5oyYOVJCwc, Hc5LqZVK2yzlsb8BEfdO, hrguW0CqMt2mJdfvX8IB, hZiVAw5nREjHU1qodatK, i8WIr0dtVHSGMmwFlcUY, idjesBrKybwkzPXMalUL
+reason: HAS_FEATURES

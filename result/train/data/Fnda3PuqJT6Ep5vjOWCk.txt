@@ -1,0 +1,10 @@
+int_push_retn
+push_retn_push
+retn_push_push
+push_push_push
+push_push_inc
+push_inc_pop
+inc_pop_inc
+pop_inc_retn
+inc_retn_pop
+retn_pop_retn

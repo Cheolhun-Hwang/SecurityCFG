@@ -9,6 +9,5 @@ wheels/
 .idea
 # Virtual environments
 .venv
-*.txt
 *.csv
 *.png

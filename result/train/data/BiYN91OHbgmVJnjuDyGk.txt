@@ -1,0 +1,8 @@
+push_inc_inc
+inc_inc_pop
+inc_pop_xchg
+pop_xchg_pop
+xchg_pop_inc
+pop_inc_pop
+inc_pop_int
+pop_int_xchg

@@ -1,0 +1,11 @@
+push_pop_dec
+pop_dec_pop
+dec_pop_push
+pop_push_inc
+push_inc_dec
+inc_dec_inc
+dec_inc_pop
+inc_pop_pop
+pop_pop_inc
+pop_inc_inc
+inc_inc_pop

@@ -1,0 +1,7 @@
+push_push_push
+push_push_inc
+push_inc_push
+inc_push_push
+push_push_push
+push_push_push
+push_push_inc
