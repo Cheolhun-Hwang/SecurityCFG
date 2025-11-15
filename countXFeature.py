@@ -3,8 +3,8 @@ import pandas as pd
 from collections import Counter
 
 # 입력 및 출력 디렉토리
-xgram_dir = "result/train/cfg_class2"
-output_dir = "result/train/fcount2"
+xgram_dir = "result/train/cfg_class"
+output_dir = "result/train/fcount3"
 os.makedirs(output_dir, exist_ok=True)
 
 # 모든 클래스 파일 처리
